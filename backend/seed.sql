@@ -1,1 +1,5 @@
-INSERT INTO events (venue,name,capacity,available) VALUES ('PVR Orion','AVENGERS',5,5), ('PVR Orion','INTERSTELLAR',2,2), ('INOX Garuda','DUNE',3,3);
+INSERT INTO events (venue,name,capacity,available) 
+VALUES
+ ('PVR Orion','AVENGERS',5,5),
+  ('PVR Orion','INTERSTELLAR',2,2), 
+  ('INOX Garuda','DUNE',3,3);
